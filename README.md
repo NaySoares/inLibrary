@@ -19,7 +19,7 @@ Book catalog with daily counting of pages!
 - [ ] List all collections;
 - [ ] List all category;
 
-- **BOOK** 
+**BOOK** 
 - [ ] Set book of new, used, sealed or beat-up;
 - [ ] Set specific book as borrowed;
 - [ ] Set more than 1 copy of specific book;
